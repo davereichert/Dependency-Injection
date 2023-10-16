@@ -43,7 +43,7 @@ public class Lampe
         return this._birne.Leuchten();
     }
 }
-```csharp
+```
 ### Ohne Dependency Injection:
 
 ```csharp
@@ -56,7 +56,7 @@ public class Lampe
         return this._birne.Leuchten();
     }
 }
-```csharp
+```
 ### Main Methode mit dem Dependency Injection:
 
 ```csharp
@@ -71,4 +71,4 @@ public class Program
         Console.WriteLine(ledLampe.Einschalten());  // Ausgabe: LED Licht
     }
 }
-
+```
