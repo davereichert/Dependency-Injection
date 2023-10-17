@@ -4,7 +4,7 @@
 
 Dependency Injection ist ein Software-Design-Muster, das darauf abzielt, die Abhängigkeiten eines Objekts zu entkoppeln. Durch die Entkopplung von Abhängigkeiten:
 
-- Erhöht sich die Testbarkeit, da Sie leicht Mock- oder Stub-Implementierungen bereitstellen können.
+- Erhöht sich die Testbarkeit
 - Wird der Code modularer und flexibler, da Komponenten einfacher ausgetauscht werden können.
 - Verbessert sich die Wartbarkeit, da Änderungen in einer Komponente weniger Auswirkungen auf andere haben.
 
